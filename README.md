@@ -1,4 +1,4 @@
-# todo
+# Todo task manager
 
 Simple todo web application built using ReactJS.
 
